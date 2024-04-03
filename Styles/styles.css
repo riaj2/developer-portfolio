@@ -121,3 +121,27 @@ border:10px  #FFF8F3;
 .summary{
     text-align: center;
 }
+.download-cv{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.head-footer{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    background-color: #FFF8F3;
+    padding: 45px 190px;
+}
+.interact-section{
+    width: 50%;
+}
+.contact input[type="text"], input[type="email"], textarea {
+    margin-bottom: 20px;
+    background: #FFF;
+    border: 0;
+    padding: 18px 35px;
+    display: block;
+    border-radius: 5px;
+    width: 100%;
+}
